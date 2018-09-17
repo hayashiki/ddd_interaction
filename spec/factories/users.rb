@@ -12,8 +12,8 @@
 
 FactoryBot.define do
   factory :user do
-    email { "MyString" }
-    name { "MyString" }
-    password_digest { "MyString" }
+    email { "test1@example.com" }
+    name { Faker::Name.name }
+    password { "password" }
   end
 end
