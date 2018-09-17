@@ -34,6 +34,7 @@ gem 'restful-jsonapi'
 gem 'active_interaction', '~> 3.6'
 
 gem 'faker'
+gem 'airborne'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
