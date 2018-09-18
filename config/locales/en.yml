@@ -31,3 +31,6 @@
 
 en:
   hello: "Hello world"
+  errors: 
+    not_authorized: "Not Authorized"
+    invalid_credentials: "Invalid login or password"
